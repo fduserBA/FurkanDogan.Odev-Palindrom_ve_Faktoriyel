@@ -1,0 +1,5 @@
+﻿1) Başlangıç
+2) Kullanıcıdan sayıyı girmesini iste
+3) Sayının faktorielini al
+4) Faktorieli yazdır
+5) Bitiş

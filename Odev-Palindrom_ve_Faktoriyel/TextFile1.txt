@@ -1,0 +1,5 @@
+﻿1) Başla
+2) Kullanıcıdan kelimeyi al
+3) Yapılan girişin iki karakterden fazla olup olmadığını sorgula ve ğer fazla değilse tekrar kelime iste(harf girme zorunlu değil)
+4) Kod q harfine basılana kadar tekrarlanarak çalışsın
+5) Eğer kullanıcının girdiği kelime palindrom ise ekrana "Girdiğiniz kelime palindromdur.", değilse "Girdiğiniz kelime palindrom değildir." yazılır.
